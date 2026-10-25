@@ -1,0 +1,15 @@
+# ==========================================
+# REAMusicApp - Project Dependencies
+# ==========================================
+
+# Modern dark-mode desktop UI framework
+customtkinter>=6.0.0
+
+# Image processing for thumbnails and avatars
+pillow>=11.0.0
+
+# High-fidelity audio stream resolution without CDN or bot restrictions
+yt-dlp>=2026.10.0
+
+# Standalone binary compiler (optional for development, required for packaging .exe)
+pyinstaller>=6.20.0
